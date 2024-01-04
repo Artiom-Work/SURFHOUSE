@@ -14,7 +14,7 @@ $\color{limegreen}\text{Учебная работа}$
 
 Макет -> [**Dounload PSD**](https://disk.yandex.by/d/nri_LB_l3Pm4wL/home.psd)
 
-Вёрстка -> [**Git pages**]()
+Вёрстка -> [**Git pages**](https://artiom-work.github.io/SURFHOUSE/)
 
 <img src="./images/website/preview-image.png" width="700" alt="Изображение макета страницы">
 

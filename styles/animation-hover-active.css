@@ -1,0 +1,71 @@
+:focus,
+:active,
+a:focus,
+a:active {
+	outline: none;
+}
+
+@media(hover: hover) {
+
+	a:hover,
+	button:hover {
+		opacity: .7;
+		color: #fff;
+	}
+
+	a:active,
+	button:active {
+		opacity: .3;
+	}
+
+	.logo:hover {
+		color: black;
+	}
+
+	.promotion__btn:hover {
+		opacity: 1;
+		background-color: #000;
+		color: #fff51f;
+		transform: scale(1.2);
+		box-shadow: 4px 4px 54px -13px rgba(251, 247, 0, 0.38);
+	}
+
+	.promotion__btn:active {
+		opacity: .7;
+	}
+
+	.content__menu-item:hover {
+		background: #333;
+	}
+
+	.content__menu-item:hover a {
+		opacity: 1;
+		color: #fff;
+	}
+
+	.content__menu-item:active {
+		opacity: .7;
+	}
+
+	.content__products-link:hover,
+	.instagramm-feed__link:hover {
+		opacity: 1;
+		transform: scale(1.2);
+	}
+
+	.content__products-link:active,
+	.instagramm-feed__link:active {
+		opacity: .7;
+	}
+
+	.news-letter__form-btn:hover {
+		opacity: 1;
+
+		background-color: #fff;
+		color: #000;
+	}
+
+	.news-letter__form-btn:active {
+		opacity: .7;
+	}
+}
